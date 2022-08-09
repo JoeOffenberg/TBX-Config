@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="x_snc_tbx_config_adm_ref_params_import_transform_map">c26c6fe6878199104c3d52c73cbb3560</map>
+        <reference_value_field/>
+        <source_field>u_o_env</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_snc_tbx_config_1659645241441</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>joe</sys_created_by>
+        <sys_created_on>2022-08-04 20:34:42</sys_created_on>
+        <sys_id>9e6cafe6878199104c3d52c73cbb353e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_o_env</sys_name>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_transform_entry_9e6cafe6878199104c3d52c73cbb353e</sys_update_name>
+        <sys_updated_by>joe</sys_updated_by>
+        <sys_updated_on>2022-08-04 20:34:42</sys_updated_on>
+        <target_field>o_env</target_field>
+        <target_table>x_snc_tbx_config_adm_ref_params_import</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>
