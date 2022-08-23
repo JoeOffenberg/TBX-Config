@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD902ae347c5955d9462d6cdd6829c8c2e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>149b2ba6878199104c3d52c73cbb35c8</scope_name>
+        <serialized_content>{"FlowDesigner:FD902ae347c5955d9462d6cdd6829c8c2e":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD902ae347c5955d9462d6cdd6829c8c2e.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"732060c6-6fad-43ea-a546-4e4ec26faff3\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD902ae347c5955d9462d6cdd6829c8c2e\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-18 19:57:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>542ae34787955d94079a315e0ebb352e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD902ae347c5955d9462d6cdd6829c8c2e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_complex_object_542ae34787955d94079a315e0ebb352e</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-18 19:57:26</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

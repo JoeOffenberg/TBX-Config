@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD8235b5fa559d5594195132964dc37739</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>149b2ba6878199104c3d52c73cbb35c8</scope_name>
+        <serialized_content>{"FlowDesigner:FD8235b5fa559d5594195132964dc37739":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD8235b5fa559d5594195132964dc37739.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"variable\",\"mandatory\":\"false\",\"child_name\":\"variable_child0\",\"uiUniqueId\":\"30561abf-95c6-418a-894f-5f5946483e36\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FD8235b5fa559d5594195132964dc37739\",\"child_label\":\"variable_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"0\",\"child_uiUniqueId\":\"169f300e-7987-473f-8e49-981862f309e1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 16:48:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>4635b5fa479d5594b108e228436d4339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD8235b5fa559d5594195132964dc37739</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_complex_object_4635b5fa479d5594b108e228436d4339</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 16:48:08</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

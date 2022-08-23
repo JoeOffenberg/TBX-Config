@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ADM_REF_PARAMS_import" max_length="40" name="x_snc_tbx_config_adm_ref_params_import" sizeclass="100" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="o.configId" max_length="53" name="o_configid" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <element attributes="edge_encryption_enabled=true" label="o.dateTime" max_length="40" name="o_datetime" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <element attributes="edge_encryption_enabled=true" label="o.env" max_length="40" name="o_env" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <element attributes="edge_encryption_enabled=true" label="o.site" max_length="40" name="o_site" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <element attributes="edge_encryption_enabled=true" label="o.value" max_length="67" name="o_value" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" u_root_table_name="x_snc_tbx_config_adm_ref_params_import"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

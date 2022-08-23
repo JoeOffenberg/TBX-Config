@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Connection Strings" max_length="40" name="x_snc_tbx_config_connection_strings" type="collection">
+        <element display="true" label="active" max_length="40" name="active" type="boolean" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <element display="true" label="Connection alias" max_length="32" name="connection_alias" reference="sys_alias" type="reference" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <element display="true" label="Connection string" max_length="1024" name="connection_string" type="string" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <element display="true" label="Db name" max_length="40" name="db_name" type="string" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <element display="true" label="env" max_length="12" name="env" type="string" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <element display="true" label="Site" max_length="12" name="site" type="string" u_root_table_name="x_snc_tbx_config_connection_strings"/>
+        <index name="index">
+            <element name="connection_alias"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDa8e92b073b955d94fd01353e3c8e19ba</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>149b2ba6878199104c3d52c73cbb35c8</scope_name>
+        <serialized_content>{"FlowDesigner:FDa8e92b073b955d94fd01353e3c8e19ba":{"Records":[{"$105_Records":{"code":"String","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"CODE\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"last_modified_time":"Date","last_modified_time.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Date/Time\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"LAST_MODIFIED_TIME\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"description":"String","description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DESCRIPTION\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"value":"String","value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"VALUE\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"Records.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Records\",\"mandatory\":\"false\",\"child_name\":\"Record\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"Record\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"56cee280-770d-4b49-bf8b-8478208f835a\"}"}},"FlowDesigner:FDa8e92b073b955d94fd01353e3c8e19ba.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"ResultSet\",\"mandatory\":\"false\",\"uiUniqueId\":\"6519edd7-2201-471e-9f80-d41e1d550d85\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDa8e92b073b955d94fd01353e3c8e19ba\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"isGeneratedStepOutput\":\"true\",\"order\":\"6\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-18 19:56:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>6ce92b0787955d94079a315e0ebb35ba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FDa8e92b073b955d94fd01353e3c8e19ba</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_complex_object_6ce92b0787955d94079a315e0ebb35ba</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-18 19:56:22</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

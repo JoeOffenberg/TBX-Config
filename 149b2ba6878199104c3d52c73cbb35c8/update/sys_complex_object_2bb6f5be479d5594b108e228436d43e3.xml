@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD67b6f5be7f9d559457554dce2aeeb9e3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>149b2ba6878199104c3d52c73cbb35c8</scope_name>
+        <serialized_content>{"FlowDesigner:FD67b6f5be7f9d559457554dce2aeeb9e3":{"Records":[{"$92_Records":{"owner":"String","owner.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"OWNER\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"object_name":"String","object_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"OBJECT_NAME\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"Records.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Records\",\"mandatory\":\"false\",\"child_name\":\"Record\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"Record\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"51ec722e-40ba-4553-af58-19489da50e01\"}"}},"FlowDesigner:FD67b6f5be7f9d559457554dce2aeeb9e3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"ResultSet\",\"mandatory\":\"false\",\"uiUniqueId\":\"6519edd7-2201-471e-9f80-d41e1d550d85\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD67b6f5be7f9d559457554dce2aeeb9e3\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"isGeneratedStepOutput\":\"true\",\"order\":\"5\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 16:54:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>2bb6f5be479d5594b108e228436d43e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD67b6f5be7f9d559457554dce2aeeb9e3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_complex_object_2bb6f5be479d5594b108e228436d43e3</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 16:54:48</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

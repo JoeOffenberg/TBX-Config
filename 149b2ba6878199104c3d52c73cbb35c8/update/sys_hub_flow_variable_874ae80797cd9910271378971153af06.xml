@@ -38,7 +38,7 @@
         <label>env</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="TBX Config Download">7a4aa80797cd9910271378971153aff9</model>
+        <model display_value="">7a4aa80797cd9910271378971153aff9</model>
         <model_id>7a4aa80797cd9910271378971153aff9</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_7a4aa80797cd9910271378971153aff9</name>
@@ -60,17 +60,20 @@
         <sys_class_name>sys_hub_flow_variable</sys_class_name>
         <sys_created_by>joe</sys_created_by>
         <sys_created_on>2022-08-05 19:43:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>874ae80797cd9910271378971153af06</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>env</sys_name>
         <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
         <sys_update_name>sys_hub_flow_variable_874ae80797cd9910271378971153af06</sys_update_name>
         <sys_updated_by>joe</sys_updated_by>
         <sys_updated_on>2022-08-05 19:43:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
+        <u_root_table_name>var__m_sys_hub_flow_variable_7a4aa80797cd9910271378971153aff9</u_root_table_name>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD353575fa7c9d5594b6773f2f244269e7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>149b2ba6878199104c3d52c73cbb35c8</scope_name>
+        <serialized_content>{"FlowDesigner:FD353575fa7c9d5594b6773f2f244269e7":{"Records":[{"$84_Records":{"owner":"String","owner.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"OWNER\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"object_name":"String","object_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"OBJECT_NAME\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"Records.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Records\",\"mandatory\":\"false\",\"child_name\":\"Record\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"Record\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"6c9fe1f1-1bde-4964-a83c-9c8eb017e26b\"}"}},"FlowDesigner:FD353575fa7c9d5594b6773f2f244269e7.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD353575fa7c9d5594b6773f2f244269e7\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"isGeneratedStepOutput\":\"true\",\"default_value\":\"\",\"label\":\"ResultSet\",\"mandatory\":\"false\",\"order\":\"6\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 16:48:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>393575fa479d5594b108e228436d43e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD353575fa7c9d5594b6773f2f244269e7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_complex_object_393575fa479d5594b108e228436d43e7</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 16:48:07</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_snc_tbx_config_adm_ref_params_import" label="ADM_REF_PARAMS" max_length="40" name="x_snc_tbx_config_adm_ref_params" sizeclass="100" type="collection">
+        <element label="key" max_length="40" name="key" type="string" u_root_table_name="x_snc_tbx_config_adm_ref_params"/>
+    </element>
+</database>

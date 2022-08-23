@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="adm_ref_params sample.csv (Uploaded)" max_length="40" name="x_snc_tbx_config_1659645241441" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o.configId" label="o.configId" max_length="53" name="u_o_configid" type="string" u_root_table_name="x_snc_tbx_config_1659645241441"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o.dateTime" label="o.dateTime" max_length="40" name="u_o_datetime" type="string" u_root_table_name="x_snc_tbx_config_1659645241441"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o.env" label="o.env" max_length="40" name="u_o_env" type="string" u_root_table_name="x_snc_tbx_config_1659645241441"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o.site" label="o.site" max_length="40" name="u_o_site" type="string" u_root_table_name="x_snc_tbx_config_1659645241441"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o.value" label="o.value" max_length="67" name="u_o_value" type="string" u_root_table_name="x_snc_tbx_config_1659645241441"/>
+    </element>
+</database>

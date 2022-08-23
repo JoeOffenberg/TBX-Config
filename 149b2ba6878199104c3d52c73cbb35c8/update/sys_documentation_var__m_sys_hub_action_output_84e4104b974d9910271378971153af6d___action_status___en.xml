@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="__action_status__" label="Action Status" language="en" table="var__m_sys_hub_action_output_84e4104b974d9910271378971153af6d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>__action_status__</element>
+            <help/>
+            <hint/>
+            <label>Action Status</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_84e4104b974d9910271378971153af6d</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>joe</sys_created_by>
+            <sys_created_on>2022-08-05 18:16:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ac7618cb974d9910271378971153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Action Status</sys_name>
+            <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_84e4104b974d9910271378971153af6d___action_status___en</sys_update_name>
+            <sys_updated_by>joe</sys_updated_by>
+            <sys_updated_on>2022-08-05 18:16:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

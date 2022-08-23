@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_tbx_config.WDW_Dev1</id>
+        <multiple_connections>false</multiple_connections>
+        <name>WDW-Dev1</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 15:32:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>58d365b2471d5594b108e228436d43b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_tbx_config.WDW_Dev1</sys_name>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_update_name>sys_alias_58d365b2471d5594b108e228436d43b7</sys_update_name>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:35:50</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</application>
+        <file_path/>
+        <instance_id>54dc25b0dbaba050ad8dd7c8f496190a</instance_id>
+        <instance_name>disneydev9</instance_name>
+        <name>sys_alias_58d365b2471d5594b108e228436d43b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_tbx_config.WDW_Dev1</id><multiple_connections>false</multiple_connections><name>WDW-Dev1</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>OFFEJ005</sys_created_by><sys_created_on>2022-08-17 15:32:12</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>58d365b2471d5594b108e228436d43b7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_snc_tbx_config.WDW_Dev1</sys_name><sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope><sys_update_name>sys_alias_58d365b2471d5594b108e228436d43b7</sys_update_name><sys_updated_by>OFFEJ005</sys_updated_by><sys_updated_on>2022-08-17 15:35:50</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1246832409</payload_hash>
+        <record_name>x_snc_tbx_config.WDW_Dev1</record_name>
+        <reverted_from/>
+        <source>25b9fc9487119d14079a315e0ebb359b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 15:35:51</sys_created_on>
+        <sys_id>4fa4e536471d5594b108e228436d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ac7257d60000001</sys_recorded_at>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:35:51</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>83a4e536ba1d5594d1fdf11d2816239b</update_guid>
+        <update_guid_history>83a4e536ba1d5594d1fdf11d2816239b:1246832409,bdd36d72f41d5594c296d8a224cadff1:-1741714638</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>OFFEJ005</sys_created_by>
+        <sys_created_on>2022-08-17 15:52:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>21a4c213268840c498fb05cfd1df4071</sys_id>
+        <sys_metadata>58d365b2471d5594b108e228436d43b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_tbx_config.WDW_Dev1</sys_name>
+        <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
+        <sys_scope_delete display_value="">318ce945f4a64c608e942e6697706640</sys_scope_delete>
+        <sys_update_name>sys_alias_58d365b2471d5594b108e228436d43b7</sys_update_name>
+        <sys_update_version display_value="sys_alias_58d365b2471d5594b108e228436d43b7">4fa4e536471d5594b108e228436d439b</sys_update_version>
+        <sys_updated_by>OFFEJ005</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:52:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

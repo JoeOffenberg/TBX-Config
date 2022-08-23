@@ -8,21 +8,23 @@
         <map display_value="x_snc_tbx_config_adm_ref_params_import_transform_map">c26c6fe6878199104c3d52c73cbb3560</map>
         <reference_value_field/>
         <source_field>u_o_datetime</source_field>
-        <source_script><![CDATA[answer = (function transformEntry(source) {
+        <source_script>answer = (function transformEntry(source) {
 
 	// Add your code here
 	return ""; // return the value to be put into the target field
 
-})(source);]]></source_script>
+})(source);</source_script>
         <source_table>x_snc_tbx_config_1659645241441</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>joe</sys_created_by>
         <sys_created_on>2022-08-04 20:34:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d26c6fe6878199104c3d52c73cbb3566</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_o_datetime</sys_name>
         <sys_package display_value="TBX Config" source="x_snc_tbx_config">149b2ba6878199104c3d52c73cbb35c8</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TBX Config">149b2ba6878199104c3d52c73cbb35c8</sys_scope>
         <sys_update_name>sys_transform_entry_d26c6fe6878199104c3d52c73cbb3566</sys_update_name>
         <sys_updated_by>joe</sys_updated_by>
